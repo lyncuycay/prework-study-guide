@@ -1,4 +1,4 @@
-# Prework Study Guide Webpage
+# PREWORK STUDY GUIDE WEBPAGE FOR CODING CLASS
 
 ## Description
 
